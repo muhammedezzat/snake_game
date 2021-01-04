@@ -120,7 +120,7 @@ main PROC
                                 
     MOV EAX, 0                 
     MOV EDX, 0 
-    CALL Clrscr           ;to be implemented   
+    CALL Clrscr           
     CALL initSnake        ;to be implemented       
     CALL Paint            ;to be implemented          
     CALL createFood       ;to be implemented         
